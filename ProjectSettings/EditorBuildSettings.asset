@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Manu.unity
+    guid: 4d2af3c39f2e758478f955871ed6fc5d
+  - enabled: 1
+    path: Assets/Scenes/Color Selector.unity
+    guid: 1a61aab45fa3f714d92e9c1381e0316f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Levels/2.unity
+    guid: 31f74582c00e69e47ae50763271a429a
+  - enabled: 1
+    path: Assets/Scenes/Levels/3.unity
+    guid: b9ddd8108d0e2324d8c4a69305ca4dee
+  - enabled: 1
+    path: Assets/Scenes/Levels/4.unity
+    guid: 6ea56011a98e4c24f8cfa340a9788384
+  - enabled: 1
+    path: Assets/Scenes/Levels/5.unity
+    guid: 065e6257dfcdf7640a549c346aad915a
+  m_configObjects: {}
